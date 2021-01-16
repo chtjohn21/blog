@@ -1,5 +1,7 @@
 # vue-01
 该项目是个人博客系统，主要介绍一些关于前端，linux，vue的文章，还有自己做项目时发现的一些问题。
+项目主要功能：注册，登录，分享文章，个人介绍等。
+项目使用技术：vue，js，html，css，mysql，php
 > A Vue.js project
 
 ## Build Setup
