@@ -1,5 +1,5 @@
 # vue-01
-
+该项目是个人博客系统，主要介绍一些关于前端，linux，vue的文章，还有自己做项目时发现的一些问题。
 > A Vue.js project
 
 ## Build Setup
